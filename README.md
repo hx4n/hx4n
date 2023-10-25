@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋🏻, hello folks
 
-<!--
-**hm4n/hm4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I configured my readme with Yet Another Markup File **`readme.yml`**:
 
-Here are some ideas to get you started:
+```yml
+- name: heman sakkthivel 
+  url: https://github.com
+  color: '#BC9689 (💁🏻 indian)'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  projects:
+      - url: https://github.com/hm4n?tab=repositories
+
+  about me: I'm an indie full stack developer and opensource enthu, having fun with functional programming paradigm
+            and system level programming as a `Rustacean 👾`. I'd like to flex with my fellow developers with my mac
+            and shity stickers on it😗.
+
+  tools:
+      -text editor: obviously vim over emacs 😏, XCode, Postman and VSCode
+```
+
+if you'd like to buy me a coffee🍺,
+find me on - [linkdn](https://www.linkedin.com/in/h3-man/) and [twittr](https://twitter.com/HemanSakkthivel)
