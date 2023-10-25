@@ -10,8 +10,8 @@ I configured my readme with Yet Another Markup File **`readme.yml`**:
   projects:
       - url: https://github.com/hm4n?tab=repositories
 
-  about me: I'm an indie full stack developer and opensource enthu, having fun with functional programming paradigm
-            and system level programming as a `Rustacean 👾`. I'd like to flex with my fellow developers with my mac
+  about me: I'm an indie full stack developer and opensource enthu, having fun with functional programming paradigm    
+            and system level programming as a `Rustacean 👾`. I'd like to flex with my fellow developers with my mac    
             and shity stickers on it😗.
 
   tools:
