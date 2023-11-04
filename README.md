@@ -13,7 +13,7 @@
 
 - 🖖🏻 Co Lead Development Sig, **@ACM Amrita**
 
-- 🍺 Feel free to reach me out **hemansakkthivel04@gmail.com**
+- 🍺 Feel free to reach me out **__h3m4n** on discord
 
 <!--Intro end-->
 
