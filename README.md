@@ -9,7 +9,7 @@
 <!--Intro start-->
 - 🧑🏼‍💻 I’m an electronics undergrad **and opensource enthu, learning to code for fun✨**
 
-- 💁🏻 currently learning ml and smart contracts
+- 💁🏻 currently focusing on development and trying out various aspects of programming
 
 - 🖖🏻 Co Lead Development Sig, **@ACM Amrita**
 
